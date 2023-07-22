@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\NewTask\bin\Debug\net7.0\TasksAndAlgorithms.exe
+C:\Users\OMEN\Desktop\VS Code\NewTask\bin\Debug\net7.0\TasksAndAlgorithms.deps.json
+C:\Users\OMEN\Desktop\VS Code\NewTask\bin\Debug\net7.0\TasksAndAlgorithms.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\NewTask\bin\Debug\net7.0\TasksAndAlgorithms.dll
+C:\Users\OMEN\Desktop\VS Code\NewTask\bin\Debug\net7.0\TasksAndAlgorithms.pdb
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.dll
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\refint\TasksAndAlgorithms.dll
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.pdb
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\TasksAndAlgorithms.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\NewTask\obj\Debug\net7.0\ref\TasksAndAlgorithms.dll
